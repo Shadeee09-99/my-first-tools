@@ -255,9 +255,9 @@ def menu_19_calc():
 def menu_20_about():
     clear_screen()
     print("--- [ 20. TENTANG TOOLS ] ---")
-    print(" Nama Tools  : Shadee Pro Web & Network Toolkit")
-    print(" Pembuat     : M. Janwar Abidin (Shadee)")
-    print(" Kelas       : XII TKJ 4 - SMK Dharma Bahari Surabaya")
+    print(" Nama Tools  : Pro Web & Network Toolkit")
+    print(" Pembuat     : tung tung tung sahur (Shadee)")
+    print(" Kata        :  woilah cik")
     print(" Deskripsi   : Toolkit multifungsi untuk uji diagnostik")
     print("               jaringan dan web secara modular di Termux.")
     pause()
